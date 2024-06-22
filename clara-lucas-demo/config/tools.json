@@ -1,0 +1,10 @@
+{
+  "local": {
+    "duckduckgo": {},
+    "weather": {},
+    "interpreter": {}
+  },
+  "llamahub": {
+    "wikipedia.WikipediaToolSpec": {}
+  }
+}
